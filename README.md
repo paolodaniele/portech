@@ -1,7 +1,7 @@
 # portech
 Set of tools for read/send SMS from Portech GSM.
-readSms.php -  allow you to read SMS from your Portech GSM and send to your own email
-sendSms.php - allow you to send SMS from cli
+- readSms.php -  allow you to read SMS from your Portech GSM and send to your own email
+- sendSms.php - allow you to send SMS from cli
 
 # Usage
 
